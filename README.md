@@ -16,7 +16,7 @@
 ![ssh](https://github.com/lahteeph/Dev_Kodecamp4.0/assets/167543895/6ef7805f-6351-4b46-999e-b29557034c9f)
 
 ## after that,i uploaded the public key into my github for ssh remote authentication 
-![ssh](https://github.com/lahteeph/Dev_Kodecamp4.0/assets/167543895/6ef7805f-6351-4b46-999e-b29557034c9f)
+![adding ssh-key to my github profile](https://github.com/lahteeph/Dev_Kodecamp4.0/assets/167543895/42284da2-7ca1-4bbe-87da-f448497c1909)
 
 # step five:
 ## on my local machine i connect to my github profile throught the ssh link
