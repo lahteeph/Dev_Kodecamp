@@ -7,7 +7,7 @@
 ## i setup a code with respected to the instruction.
 ![code setup](https://github.com/lahteeph/Dev_Kodecamp4.0/assets/167543895/64ba3f08-9ac9-46b1-b806-f8bafa0c6180)
 
-#Step three:
+# Step three:
 ## i run the comand "git init" to set git on my local machine and so ran the neccessary commands like "git add ." git commit -m 
 ![git set up locally](https://github.com/lahteeph/Dev_Kodecamp4.0/assets/167543895/4b6e11e0-6249-4b22-8ed5-bbb25663caa0)
 
@@ -25,6 +25,6 @@
 ## and the was successfully
 ![remote login to git ](https://github.com/lahteeph/Dev_Kodecamp4.0/assets/167543895/77e11a79-5090-44db-b646-fb0f0fc93bab)
 
-#Step six:
+# Step six:
 ## after the remote connection was successful i push the directories and file to my github profile
 ![push code on github](https://github.com/lahteeph/Dev_Kodecamp4.0/assets/167543895/52c5185e-ed56-4c00-9a15-4e55aaf0e62d)
