@@ -4,7 +4,7 @@
 ![Screenshot 2024-06-20 131830](https://github.com/lahteeph/Dev_Kodecamp4.0/assets/167543895/dc4bc894-cc5e-4c8b-add2-7937cab14934)
 
 # Step two:
-## i setup a code with respected to the instruction.
+## i setup a code with respected to the instructions.
 ![code setup](https://github.com/lahteeph/Dev_Kodecamp4.0/assets/167543895/64ba3f08-9ac9-46b1-b806-f8bafa0c6180)
 
 # Step three:
