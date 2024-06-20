@@ -1,3 +1,3 @@
 # Step one:
-- [imagies](#images/creating directory.png)
+![imagies](#images/creating directory.png)
 
